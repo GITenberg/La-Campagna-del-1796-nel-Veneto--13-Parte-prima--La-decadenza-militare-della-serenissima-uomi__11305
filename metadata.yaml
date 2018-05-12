@@ -1,5 +1,8 @@
 _repo: La-Campagna-del-1796-nel-Veneto--13-Parte-prima--La-decadenza-militare-della-serenissima-uomi__11305
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Barbarich, Eugenio
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3932
     wikipedia: http://it.wikipedia.org/wiki/Eugenio_Barbarich
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11305#La-Campagna-del-1796-nel-Veneto--13-Parte-prima--La-decadenza-militare-della-serenissima-uomi_
 gutenberg_bookshelf: IT Storia
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
